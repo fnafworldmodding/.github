@@ -15,7 +15,7 @@
 
 <div>
 <p>FWmod is a github organization dedicated to developing a powerful modding engine for FNaF World</p>
-<br><br><br><br><br><br><br>&nbsp;
+<br><br><br><br><br><br><br><br>&nbsp;
 
 <div align="right">
 <p><a target="_blank" text-decoration="none" href="https://discord.gg/V5fAkVA2kw">
