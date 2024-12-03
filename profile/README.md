@@ -2,7 +2,7 @@
 
 ![fwmod banner](https://m.gjcdn.net/game-header/1300/861624-vcyjiijd-v4.webp)
 
-<div align="right"><sup><sub>Meet the devs!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></sup></div>
+<div align="right"><sup><sub>Meet the devs!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></sup></div>
 <img align="right" src="https://fwmod.glitch.me/random#1" width="127px" height="267px">
 
 <div>
