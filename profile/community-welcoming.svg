@@ -1,0 +1,27 @@
+<svg fill="none" viewBox="0 0 120 25" width="120" height="25" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container2 {
+          
+          width: 100%;
+          height: 100%;
+
+          display: flex;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+        @media (prefers-color-scheme: light) {
+          .container2 {
+            color: black
+          }
+        }
+      </style>
+
+      <div class="container2" align="right" style="opacity:0.5;font-size:6px">
+        <span>you can join the community at <a href="https://discord.gg/V5fAkVA2kw"> discord</a></span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
